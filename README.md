@@ -17,9 +17,7 @@ The first public code release will include:
 - `open_SBFEMTO_3D.m`, the self-contained MATLAB implementation;
 - `run.m`, the user-facing demonstration script;
 - example STL models used in the paper;
-- plotting and result-export utilities;
 - documentation for adjustable parameters and local functions;
-- a tagged release corresponding to the published manuscript.
 
 ## Main Features
 
@@ -36,7 +34,7 @@ The code is not yet included in this repository because the manuscript is still 
 
 ## Citation
 
-Please cite the associated paper after publication. A `CITATION.cff` file and a versioned release will be added together with the source code.
+Please cite the associated paper after publication. 
 
 ## License
 
